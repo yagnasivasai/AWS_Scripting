@@ -1,3 +1,12 @@
+##  Blogs
+
++ https://blog.palark.com/
++ https://www.containiq.com/blog-categories/resources
++ https://devconnected.com/
++ https://palak-bhawsar.hashnode.dev/automated-cicd-pipeline-for-java-project
++ https://blog.pradumnasaraf.dev/dockerhub-githubactions
+
+
 - https://aws.amazon.com/blogs/networking-and-content-delivery/scaling-nlb-target-groups-by-connections/
 - https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-instance-connect-ssh-rdp-public-ip-address/
   ssh -i K8s.pem ubuntu@i-0dbb7b6d45e690880 -o ProxyCommand='aws ec2-instance-connect open-tunnel --instance-id i-0dbb7b6d45e690880'
@@ -109,3 +118,37 @@
 - https://github.com/edreinoso/aws_devops
 - https://github.com/stacksimplify/aws-cloudformation-simplified
 - https://github.com/AutomationWithScripting/UdemyBoto3Scripts
+
+The two checks are: System Reachability Check, which confirms that AWS is able to get the network packets to the user's instance. Instance Status Check, which detects a problem within the EC2 instance
+
+### AWS Blog
++ https://aws.amazon.com/blogs/mt/
++ 
+### Presigned URL
++ https://fourtheorem.com/the-illustrated-guide-to-s3-pre-signed-urls/?utm_id=FAUN_DevOpsLinks359_Link_title
+
+### SQS
++ https://medium.com/@amirhosseinsoltani7/necessary-configuration-for-aws-sqs-queues-1d731c6012ec
+
+### WAF
++ https://aws.amazon.com/blogs/security/visualize-aws-waf-logs-with-an-amazon-cloudwatch-dashboard/?utm_id=FAUN_CyraBee359_Link_title
++ https://aws.amazon.com/blogs/security/deploy-dashboard-for-aws-waf-minimal-effort/?utm_id=FAUN_CyraBee359_Link_title
+
+### BigData
++ https://aws.amazon.com/blogs/big-data/serverless-logging-with-amazon-opensearch-serverless-and-amazon-kinesis-data-firehose/?utm_id=FAUN_Shipped359_Link_title
+
+### Github
++ https://github.com/aws-samples/aws-serverless-openai-chatbot-demo?utm_id=FAUN_Shipped359_Link_title
++ https://github.com/paololazzari/cloudtrail-event-fuzzy-viewer?utm_id=FAUN_CyraBee359_Link_title
++ https://github.com/onestar1004/Django-Ecommerce?utm_id=FAUN_CyraBee359_Link_title
++ https://github.com/iann0036/former2?utm_id=FAUN_Shipped360_Link_title #
+
+### Serverless
++ https://blog.awsfundamentals.com/aws-lambda-pricing-a-complete-guide-to-understanding-the-cost-of-the-serverless-service?utm_id=FAUN_Shipped359_Link_title
+
+### AWS CDK
++ https://blog.serverlessadvocate.com/serverless-aws-cdk-pipeline-best-practices-patterns-part-1-ab80962f109d
++ https://fueled.com/the-cache/posts/backend/devops/aws-lambda-websockets/?utm_id=FAUN_CyraBee363_Link_title
+
+### AWS Lambda
++ https://blog.serverlessadvocate.com/serverless-aws-cdk-pipeline-best-practices-patterns-part-1-ab80962f109d
