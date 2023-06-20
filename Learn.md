@@ -99,3 +99,13 @@
 - https://amlanscloud.com/cfntoazure/
 
 - https://plainenglish.io/
+
+
+## Github
+
+- https://github.com/srcecde/aws-tutorial-code
+
+
+- https://github.com/edreinoso/aws_devops
+- https://github.com/stacksimplify/aws-cloudformation-simplified
+- https://github.com/AutomationWithScripting/UdemyBoto3Scripts
